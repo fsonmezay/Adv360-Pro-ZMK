@@ -1,3 +1,21 @@
+# Current Configuration
+
+## Base Layer
+![Base layer:](./base_layer.png)
+
+## Keypad Layer
+![Keypad layer:](./keypad_layer.png)
+
+## fn Layer
+![fn layer:](./fn_layer.png)
+
+## Mod Layer
+![Mod layer:](./mod_layer.png)
+
+## Custom Layer
+![Custom layer:](./custom.png)
+
+
 # ADV360-PRO-ZMK
 
 ## To build Firmware in GitHub Actions
