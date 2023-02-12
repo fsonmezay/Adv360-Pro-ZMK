@@ -1,19 +1,19 @@
 # Current Configuration
 
 ## Base Layer
-![Base layer:](./base_layer.png)
+![Base layer:](./img/0.png)
 
 ## Keypad Layer
-![Keypad layer:](./keypad_layer.png)
+![Keypad layer:](./img/1.png)
 
 ## fn Layer
-![fn layer:](./fn_layer.png)
+![fn layer:](./img/2.png)
 
 ## Mod Layer
-![Mod layer:](./mod_layer.png)
+![Mod layer:](./img/3.png)
 
-## Custom Layer
-![Custom layer:](./custom.png)
+## Mac Os Layer
+![Mac Os layer:](./img/4.png)
 
 
 # ADV360-PRO-ZMK
