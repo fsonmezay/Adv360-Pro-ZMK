@@ -1,3 +1,21 @@
+macro_mac_terminal: macro_mac_terminal{
+compatible = "zmk,behavior-macro";
+label = "macro_mac_terminal";
+#binding-cells = <0>;
+bindings = <&mt LGUI SPACE>, <&kp T>, <&kp E>, <&kp R>, <&kp M>, <&kp I>, <&kp N>, <&kp A>, <&kp L>, <&kp ENTER>;
+};
+macro_linux_terminal: macro_linux_terminal{
+compatible = "zmk,behavior-macro";
+label = "macro_linux_terminal";
+#binding-cells = <0>;
+bindings = <&kp LEFT_GUI>, <&kp T>, <&kp E>, <&kp R>, <&kp M>, <&kp I>, <&kp N>, <&kp A>, <&kp L>, <&kp ENTER>;
+};
+macro_html_tag: macro_html_tag{
+compatible = "zmk,behavior-macro";
+label = "macro_html_tag";
+#binding-cells = <0>;
+bindings = <&kp LESS_THAN>, <&kp GREATER_THAN>, <&kp LEFT>, <&kp LEFT>;
+};
 macro_dot_slash: macro_dot_slash{
 compatible = "zmk,behavior-macro";
 label = "macro_dot_slash";
