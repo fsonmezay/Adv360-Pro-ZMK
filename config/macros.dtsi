@@ -1,9 +1,3 @@
-macro_mac_terminal: macro_mac_terminal{
-compatible = "zmk,behavior-macro";
-label = "macro_mac_terminal";
-#binding-cells = <0>;
-bindings = <&mt LGUI SPACE>, <&kp F>, <&kp K>, <&kp S>, <&kp M>, <&kp L>, <&kp J>, <&kp A>, <&kp U>, <&kp ENTER>;
-};
 macro_linux_terminal: macro_linux_terminal{
 compatible = "zmk,behavior-macro";
 label = "macro_linux_terminal";
