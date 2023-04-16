@@ -1,3 +1,18 @@
+# Current Configuration
+
+## Base Layer
+![Base layer:](./img/0.png)
+
+## fn Layer
+![fn layer:](./img/1.png)
+
+## Mod Layer
+![Mod layer:](./img/2.png)
+
+## Mac Os Layer
+![Mac Os layer:](./img/3.png)
+
+
 # ADV360-PRO-ZMK
 
 ## To build Firmware in GitHub Actions
